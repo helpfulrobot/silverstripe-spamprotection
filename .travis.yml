@@ -33,4 +33,4 @@ before_script:
   - composer install
 
 script:
-  - vendor/bin/phpunit spamprotection/tests
+  - vendor/bin/phpunit silverstripe-spamprotection/tests
